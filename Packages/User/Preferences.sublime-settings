@@ -1,0 +1,12 @@
+{
+	"auto_complete": true,
+	"color_scheme": "Packages/Theme - Spacegray/base16-ocean.dark.tmTheme",
+	"font_size": 9,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"show_encoding": true,
+	"theme": "Spacegray.sublime-theme",
+	"update_check": false
+}
