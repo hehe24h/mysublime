@@ -6,20 +6,22 @@
 	"installed_packages":
 	[
 		"Alignment",
-		"All Autocomplete",
 		"Bootstrap 3 Snippets",
 		"BracketHighlighter",
 		"Color Highlighter",
+		"DocBlockr",
 		"Emmet",
 		"Emmet Css Snippets",
 		"HTML5",
+		"HTMLBeautify",
+		"jQuery",
 		"LESS",
 		"LiveReload",
+		"Markdown Preview",
 		"Package Control",
 		"Sass",
 		"SideBarEnhancements",
 		"SublimeCodeIntel",
-		"Theme - Spacegray",
-		"WordPress"
+		"Theme - Spacegray"
 	]
 }
