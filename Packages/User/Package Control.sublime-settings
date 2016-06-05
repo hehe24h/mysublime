@@ -8,6 +8,7 @@
 		"Alignment",
 		"Bootstrap 3 Snippets",
 		"BracketHighlighter",
+		"CodeIgniter Snippets",
 		"Color Highlighter",
 		"DocBlockr",
 		"Emmet",
@@ -22,6 +23,7 @@
 		"Sass",
 		"SideBarEnhancements",
 		"SublimeCodeIntel",
-		"Theme - Spacegray"
+		"Theme - Spacegray",
+		"WordPress"
 	]
 }

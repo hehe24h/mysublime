@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-<img src="http://fakeimg.pl/$1/00CED1/FFF/?text=$1" class="img-responsive" alt="$1">
+<img src="http://fakeimg.pl/$1/1B4186/FFF/?text=$1" class="img-responsive" alt="$1">
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>cdn-img</tabTrigger>
